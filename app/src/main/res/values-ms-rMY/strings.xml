@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KWSP</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="menu_home">Rumah</string>
+    <string name="menu_dividend">Dividen</string>
+    <string name="menu_investment">Pelaburan</string>
+    <string name="logo">Logo KWSP</string>
+    <string name="dob">Tarikh lahir</string>
+    <string name="exit_message">Mau keluar?</string>
+    <string name="exit">Mau</string>
+    <string name="cancel">Tak mau</string>
+</resources>
